@@ -1,7 +1,7 @@
 # World_Time
 
 This is my first flutter project and the concept is really simple.
-Tis app use World Time api to fetch data and the u can see the time of that country
+This app use World Time api to fetch data and the u can see the time of that country
 at a particular moment at the home page 
 
 # Getting Started 
