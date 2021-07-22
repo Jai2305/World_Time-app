@@ -1,16 +1,12 @@
 # World_Time
 
-A new Flutter project.
+This is my first flutter project and the concept is really simple.
+Tis app use World Time api to fetch data and the u can see the time of that country
+at a particular moment at the home page 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Getting Started 
+* The app starts by loading the home pafge which shows time for Germany ( Berlin)
+the user can tap the Location options and choose the country/location
+whose time they want to see. 
+* The app fetches data from World Api ( http://worldtimeapi.org/ ) and 
+* navigates the user on the home page with the time of the location selected by the user
